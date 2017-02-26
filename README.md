@@ -1,5 +1,4 @@
-# Archive_DueOverview_SancoShipping from 2014
-### An old project i made for my employer which helped keep track of overdue jobs on their vessels.
+# DueOverview_SancoShipping from 2014
 
 This software, known as DueOverview from now on, is a web application built with PHP and Javascript.
 

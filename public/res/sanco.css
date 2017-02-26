@@ -1,0 +1,21 @@
+/* Blue things
+   Progressbar, Slider, Menu, etc
+----------------------------------*/
+.ui-progressbar .ui-progressbar-value,
+.ui-slider .ui-slider-range,
+.ui-menu .ui-menu-item a.ui-state-focus,
+.ui-menu .ui-menu-item a.ui-state-active,
+.ui-widget-content .ui-priority-primary,
+.ui-datepicker td .ui-state-hover,
+.ui-datepicker .ui-datepicker-today a {
+  background-color: #006dcc;
+  background-image: -khtml-gradient(linear, left top, left bottom, from(#428bca), to(#357ebd));
+  background-image: -moz-linear-gradient(top, #428bca, #357ebd);
+  background-image: -ms-linear-gradient(top, #428bca, #357ebd);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #428bca), color-stop(100%, #357ebd));
+  background-image: -webkit-linear-gradient(top, #428bca, #357ebd);
+  background-image: -o-linear-gradient(top, #428bca, #357ebd);
+  background-image: linear-gradient(top, #428bca, #357ebd);
+  color: #fff;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+}

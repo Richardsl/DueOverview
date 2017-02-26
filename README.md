@@ -6,7 +6,7 @@ This software, known as DueOverview from now on, is a web application built with
 It uses bootstrap in the front, and laravel in the back. 
 
 Also worth noting, it heavily relies on dropzonejs for drag'nDrop, and HighCharts for the fancy graphs.<br>
-<img src="readme/php-logo.png" width="110px"><img src="readme/javascript-logo.png" width="90px"><img src="readme/logo-mysql.png" width="90px"><img src="readme/laravel.logo.png" width="90px"><img src="readme/bootstrap.logo.gif" width="90px">
+<img src="readme/php-logo.png" width="110px"><img src="readme/javascript-logo.png" width="90px"><img src="readme/logo-mysql.png" width="90px"><img src="readme/laravel-logo.png" width="90px"><img src="readme/bootstrap-logo.gif" width="90px">
 
 <img src="readme/highcharts-logo.png" width="120px"><img src="readme/dropzone-logo.jpg" width="120px">
 

@@ -2,10 +2,13 @@
 ### An old project i made for my employer which helped keep track of overdue jobs on their vessels.
 
 This software, known as DueOverview from now on, is a web application built with PHP and Javascript.
+
 It uses bootstrap in the front, and laravel in the back. 
-Also worth noting, it heavily relies on dropzonejs for drag'nDrop, and HighCharts for the fancy graphs.
-![alt tag](readme/php-logo.png)![alt tag](readme/javascript-logo.png)![alt tag](readme/logo-mysql.png)
-![alt tag](readme/highcharts-logo.png)![alt tag](readme/dropzone-logo.png)
+
+Also worth noting, it heavily relies on dropzonejs for drag'nDrop, and HighCharts for the fancy graphs.<br>
+<img src="readme/php-logo.png" width="110px"><img src="readme/javascript-logo.png" width="90px"><img src="readme/logo-mysql.png" width="90px">
+
+<img src="readme/highcharts-logo.png" width="120px"><img src="readme/dropzone-logo.jpg" width="120px">
 
 
 1. DueOverview would generate an SQL string that the user would copy into a field in the maintenance software.

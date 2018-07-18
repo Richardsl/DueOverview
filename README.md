@@ -1,10 +1,10 @@
 # DueOverview_SancoShipping from 2014
 
-This software, known as DueOverview from now on, is a web application built with PHP and Javascript.
+A web application used to keep track of TM-Master v2 overdue maintenance jobs.
 
-It uses bootstrap in the front, and laravel in the back. 
+It uses bootstrap in the front, laravel in the back, and is built with PHP and Javascript 
 
-Also worth noting, it relies heavily on dropzonejs for drag'nDrop, and HighCharts for the fancy graphs.<br>
+Also worth noting, it relies heavily on dropzonejs for drag'n Drop, and HighCharts for the fancy graphs.<br>
 <img src="readme/php-logo.png" width="110px"><img src="readme/javascript-logo.png" width="90px"><img src="readme/logo-mysql.png" width="90px"><img src="readme/laravel-logo.png" width="90px"><img src="readme/bootstrap-logo.gif" width="90px">
 
 <img src="readme/highcharts-logo.png" width="120px"><img src="readme/dropzone-logo.jpg" width="120px">
